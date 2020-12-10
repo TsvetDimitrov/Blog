@@ -2,7 +2,7 @@ package blog_iovasofta.bindingModel;
 import javax.validation.constraints.NotNull;
 
 
-public class UserBindingModel {
+public class  UserBindingModel {
 
     @NotNull
     private String email;
